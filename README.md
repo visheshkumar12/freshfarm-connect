@@ -9,7 +9,7 @@ Farmer Connect is a web application that connects farmers directly with consumer
 - **Cart Management**: Add, remove, and clear items in the cart, with quantity tracking and total price calculation.
 - **User Authentication**: Register and log in to access personalized features like cart and profile management.
 - **User Profile**: View and edit user details, including name, email, and role.
-- **Responsive Design**: Optimized for both desktop and mobile devices with a clean, modern UI.
+- **Responsive Design**: Optimized for desktop with a clean, modern UI.
 - **Secure Backend**: Uses JWT-based authentication and MongoDB for data storage.
 
 ## Tech Stack
@@ -18,7 +18,6 @@ Farmer Connect is a web application that connects farmers directly with consumer
   - React
   - Tailwind CSS
   - Axios (for API requests)
-  - GSAP (for animations)
   - React Router (for navigation)
 - **Backend**:
   - Node.js
